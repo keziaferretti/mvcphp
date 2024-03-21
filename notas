@@ -1,0 +1,20 @@
+M - Model          modelo
+V - View           visualizador
+C - Controller     controlador
+
+
+-- O Usuario requisita a url site.com.br/
+-- o mvc vai verifica se esta ROTA esta estabelecida
+-- o mvc vai mandar a requisicao para o controller da rota
+-- Carrega um view 
+-- chama ummodel (usuario)
+
+
+Controller
+-- Model
+-- View
+
+
+
+//////////////
+Router 
